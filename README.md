@@ -15,7 +15,7 @@ This project analyzes regional CO2 emissions from waste in Europe and Central As
 - `Data/` – Folder containing the two CSV dataset files (`income.csv` and `carbon.csv`)
 - `Final_Report.pdf`  – Written report summarizing the analysis, visualizations, and forecasting results
 
-## Tools & Technologies
+## Tools 
 - **R 4.4.3** – data cleaning, transformation, analysis, and forecasting  
 - **forecast, tseries, ggplot2** – R packages used for time series modeling and visualization  
 
